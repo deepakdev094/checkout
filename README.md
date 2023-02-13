@@ -3,7 +3,7 @@
 
 
 #To run the checkout.rb file in terminal 
-          RUN -> ruby checkout.ruby
+          RUN -> ruby checkout.rb
 
 #To run the test case just run Rspec and the relative file path like for checkout_spec.rb we have to 
           RUN -> rspec spec/checkout_spec.rb
