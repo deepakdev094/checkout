@@ -10,6 +10,7 @@
 
 
 #What will our Code do 
+
   ##Here as our need we just create 3 classes
       -> DiscountRule class - To intialize new discount rule and price it takes three arguments type, quantity and discount_price
 
