@@ -17,4 +17,4 @@ What will our Code do
 
       -> Product class - To create new product we use Product class it takes code,name, price , discount_rule   as argument to initialize a product
 
-      -> Checkout class - It's our main class where  we display prices of our product in thish class we intialize products and a item array , there are scan method which take product code as argument and return the product, there is a method called total which calculated the checkout price according to discount rule if any applicable.
+      -> Checkout class - It's our main class where  we display prices of our product in this class we intialize products and a item array , there are scan method which take product code as argument and return the product, there is a method called total which calculated the checkout price according to discount rule if any applicable.
