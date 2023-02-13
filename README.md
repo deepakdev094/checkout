@@ -12,6 +12,7 @@ To run the test case just run Rspec and the relative file path like for checkout
 What will our Code do 
 
   Here as our need we just create 3 classes
+      
       -> DiscountRule class - To intialize new discount rule and price it takes three arguments type, quantity and discount_price
 
       -> Product class - To create new product we use Product class it takes code,name, price , discount_rule   as argument to initialize a product
