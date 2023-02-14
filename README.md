@@ -18,3 +18,5 @@ What will our Code do
       -> Product class - To create new product we use Product class it takes code,name, price , discount_rule   as argument to initialize a product
 
       -> Checkout class - It's our main logic class where we intialize products and a item array , there are scan method which take product code as argument and return the product, there is a method called total which calculated the checkout price according to discount rule if any applicable.
+
+      -> Main.rb - It's our main class where we are requiring above three classes. In this file we are creating objects of diffrent classes and getting our required result by just calling the required methods from these classes.
