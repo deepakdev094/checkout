@@ -1,4 +1,4 @@
-require './checkout'
+require './main'
 RSpec.describe Checkout do
   let(:discount_rule1) { DiscountRule.new(type = "x for y", x = 2, y = 1) }
   let(:discount_rule2) {DiscountRule.new(type = "bulk" , 3 , 7)}
